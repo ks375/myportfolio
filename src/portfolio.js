@@ -1,15 +1,15 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
-  title: 'JS.',
+  homepage: 'https://ks375.github.io/myportfolio',
+  title: 'Software Engineer',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: 'John Smith',
+  name: 'James Zhang',
   role: 'Front End Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Working at Several Companies as a LEAD Developer and having hands-on experience under my belt. So far I have 10 years Fullstack and 5+ years Blockchain experience. Always try and keep the pace with the brand new field and dig into cutting-edge technology.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
@@ -65,7 +65,7 @@ const skills = [
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'jameszh38@outlook.com',
 }
 
 export { header, about, projects, skills, contact }
