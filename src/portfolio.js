@@ -9,7 +9,8 @@ const about = {
   name: 'James Zhang',
   role: 'Front End Engineer',
   description:
-    'Working at Several Companies as a LEAD Developer and having hands-on experience under my belt. So far I have 10 years Fullstack and 5+ years Blockchain experience. Always try and keep the pace with the brand new field and dig into cutting-edge technology.',
+    `Working at Several Companies as a LEAD Developer and having hands-on experience under my belt. So far I have 10 years Fullstack and 3+ years Lead experience.
+     Always try and keep the pace with the brand new field and dig into cutting-edge technology.`,
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
