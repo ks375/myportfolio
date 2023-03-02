@@ -1,10 +1,8 @@
-# Cleanfolio
+# Single Page Portfolio
 
-A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS then check out [Cleanfolio Minimal]().
+A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS then check out [Simple portfolio]().
 
 ## Preview
-
-[![Imgur](https://imgur.com/FwDMNEM.gif)](https://ks375.github.io/myportfolio)
 
 [See Live](https://ks375.github.io/myportfolio)
 
@@ -14,7 +12,7 @@ A clean and simple portfolio template built using React, if want a template buil
 
 ```shell
 git clone https://github.com/ks375/myportfolio
-cd cleanfolio
+cd myportfolio
 ```
 
 If you use [nvm](https://github.com/nvm-sh/nvm) or [fnm](https://github.com/Schniz/fnm) (optional) -
